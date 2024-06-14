@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/catalyst-debug.log
 /.pnp
 .pnp.js
 
